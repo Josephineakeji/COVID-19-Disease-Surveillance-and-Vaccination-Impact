@@ -392,8 +392,6 @@ These capabilities are valuable for:
 
 Future improvements may include:
 
-* machine learning models predicting outbreak severity
-* lag analysis between vaccination and mortality decline
 * healthcare capacity indicators
 * real-time surveillance dashboards
 
