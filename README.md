@@ -78,7 +78,6 @@ Key columns used in the analysis:
 | Deaths       | total_deaths, new_deaths_smoothed          |
 | Vaccination  | people_vaccinated, people_fully_vaccinated |
 | Policy       | stringency_index                           |
-| Transmission | reproduction_rate                          |
 
 ---
 
