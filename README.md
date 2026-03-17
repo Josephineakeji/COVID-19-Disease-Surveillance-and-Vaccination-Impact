@@ -344,7 +344,7 @@ covid-surveillance-&-vaccination-impact-analysis
 │   └── covid_surveillance_dashboard.pbix
 │
 ├── images
-│   └── dashboard_screenshots
+│   └── dashboard_images
 │
 └── README.md
 ```
