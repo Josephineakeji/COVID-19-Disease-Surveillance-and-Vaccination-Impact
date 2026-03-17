@@ -25,13 +25,11 @@ This project investigates the **relationship between vaccination coverage and CO
 Between **2020 and 2023**, COVID-19 spread globally through multiple waves driven by new variants.
 
 Major global events included:
-
 * **Delta Variant (2021)** - increased severity and mortality
 * **Omicron Variant (2022)** - extremely high transmissibility but reduced mortality
 * Global vaccination rollout beginning in **2021**
 
 Understanding these patterns helped to improve:
-
 * pandemic preparedness
 * vaccination strategies
 * disease surveillance systems
@@ -58,7 +56,6 @@ These indicators highlight the **massive global burden of the pandemic**.
 **Source:** Our World in Data (OWID) COVID-19 Dataset
 
 The dataset contains global surveillance indicators including:
-
 * confirmed cases
 * deaths
 * vaccination coverage
@@ -148,6 +145,8 @@ The Power BI dashboard contains **five analytical sections**:
 
 ## Global Surveillance Overview
 
+![Global Surveillance Overview](dashboard_images/global_surveillance_overview.png)
+
 Key findings:
 
 * COVID burden was **not evenly distributed globally**
@@ -160,6 +159,8 @@ Normalization using **cases per 100k population** allowed fair comparisons acros
 
 ## Surveillance Sensitivity & Reporting Strength
 
+![Surveillance Sensitivity & Reporting Strength](dashboard_images/surveillance_sensitivity_&_reporting_strength.png)
+
 Analysis revealed:
 
 * South America recorded the **highest CFR**
@@ -171,6 +172,8 @@ This reflects improvements in **testing capacity and surveillance systems**.
 ---
 
 ## Vaccination Impact on Severity
+
+![Vaccination Impact on Severity](dashboard_images/vaccination_impact_on_severity.png)
 
 Several visualizations evaluated vaccination effects.
 
@@ -188,7 +191,9 @@ Some countries still showed high CFR despite vaccination due to:
 
 ---
 
-## Variant Wave Dynamics
+## Wave Dynamics & Variant Impact
+
+![Wave Dynamics & Variant Impact](dashboard_images/wave_dynamics_&_variant_impact.png)
 
 Two major variants influenced infection waves:
 
@@ -206,6 +211,8 @@ Observations:
 ---
 
 ## Policy Evaluation & Public Health Implications
+
+![Policy Evaluation & Public Health Implications](dashboard_images/policy_evaluation_&_public_health_implications.png)
 
 Key insights:
 * Mortality was still high in countries like Peru, Hungary and Croatia after 50% Vaccination
