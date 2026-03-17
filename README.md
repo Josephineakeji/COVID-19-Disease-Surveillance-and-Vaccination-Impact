@@ -44,8 +44,8 @@ From the analysis:
 | ---------------------------- | ------------------ |
 | Average Case Fatality Rate   | **1.97%**          |
 | Average Vaccination Coverage | **45.67%**         |
-| Total Global Cases           | **492.56 Billion** |
-| Total Global Deaths          | **5.98 Billion**   |
+| Total Global Cases           | **771.26 Million** |
+| Total Global Deaths          | **6.97 Million**   |
 
 These indicators highlight the **massive global burden of the pandemic**.
 
