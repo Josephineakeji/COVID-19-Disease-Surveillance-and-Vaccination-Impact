@@ -406,7 +406,7 @@ Our World in Data
 
 ---
 
-# 📜 License
+# License
 
 This project is licensed under the **MIT License**.
 
